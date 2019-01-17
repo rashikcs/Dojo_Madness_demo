@@ -6,7 +6,7 @@ Simple instructions
 
 
 3. Clone the repository:
-git clone https://github.com/GoogleCloudPlatform/nodejs-getting-started.git
+git clone https://github.com/rashikcs/Dojo_Madness_demo.git
 
 4.Change directory:
 cd NodeJS-AngularJS-Table
