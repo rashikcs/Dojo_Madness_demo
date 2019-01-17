@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-angularjs-table",
+  "version": "1.0.0",
+  "description": "NodeJS application that shows data from API by Bootstrap Table & AngularJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "AngularJS",
+    "Bootstrap-Table"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "latest"
+  }
+}
